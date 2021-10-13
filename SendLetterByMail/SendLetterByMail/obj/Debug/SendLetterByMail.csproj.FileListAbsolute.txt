@@ -1,0 +1,7 @@
+C:\Users\TveryakovVS\source\repos\SendLetterByMail\SendLetterByMail\bin\Debug\SendLetterByMail.exe.config
+C:\Users\TveryakovVS\source\repos\SendLetterByMail\SendLetterByMail\bin\Debug\SendLetterByMail.exe
+C:\Users\TveryakovVS\source\repos\SendLetterByMail\SendLetterByMail\bin\Debug\SendLetterByMail.pdb
+C:\Users\TveryakovVS\source\repos\SendLetterByMail\SendLetterByMail\obj\Debug\SendLetterByMail.csproj.AssemblyReference.cache
+C:\Users\TveryakovVS\source\repos\SendLetterByMail\SendLetterByMail\obj\Debug\SendLetterByMail.csproj.CoreCompileInputs.cache
+C:\Users\TveryakovVS\source\repos\SendLetterByMail\SendLetterByMail\obj\Debug\SendLetterByMail.exe
+C:\Users\TveryakovVS\source\repos\SendLetterByMail\SendLetterByMail\obj\Debug\SendLetterByMail.pdb

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <Sender Email="dominator3000k@gmail.com" Name="Dominator3000" Password="!dominator3000kK" Smtp="smtp.gmail.com" Port="587"/>
+    <Emails>
+        <EmailConfig Email="123@gmail.com" IsSend="false"/>
+    </Emails>
+</Items>

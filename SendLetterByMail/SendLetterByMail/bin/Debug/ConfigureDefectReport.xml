@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <HeaderMessage Text="Отчет системы вибромониторинга TIK-RVM"/>
+    <StartMessage Text="Выявлены следующие дефекты:"/>
+    <EndOfMessage Text="Для обратной связи используйте e-mail: tik@perm.ru"/>
+</Root>
